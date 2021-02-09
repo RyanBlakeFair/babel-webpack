@@ -1,0 +1,23 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.fbtw-buttons {
+  width: 90px;
+  height: 120px;
+}
+
+.fbtw-container {
+  height: 230px;
+  width: 400px;
+}
+
+.fbtw-textArea {
+  height: 80px;
+}
+
+.fbtw-tick {
+  margin-top: -20px;
+}
